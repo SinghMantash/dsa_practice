@@ -12,12 +12,12 @@ This repo is created with the aim to provide a public, open space for anyone who
 
 
 ### 🔎 Structure of the Repository
-
+```bash
 dsa-practice/
 ├── [monotonic_array](./monotonic_array)
 │   ├── [monotonic_array](./monotonic_array/monotonic_array.js)
 └── README.md
-
+```
 
 ### 💡 Why This Repo Exists
 Data Structures and Algorithms form the backbone of software engineering interviews and are a critical skill for any developer. By sharing my practice here, I hope to build a collaborative environment where anyone can:
