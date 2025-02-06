@@ -14,8 +14,9 @@ This repo is created with the aim to provide a public, open space for anyone who
 ### 🔎 Structure of the Repository
 ```bash
 dsa-practice/
-├── [monotonic_array](./monotonic_array)
-│   ├── [monotonic_array](./monotonic_array/monotonic_array.js)
+├── monotonic_array
+│   ├── monotonic_array.js
+|   └── README.md
 └── README.md
 ```
 
