@@ -15,11 +15,13 @@ This repo is created with the aim to provide a public, open space for anyone who
 
 ```bash
 dsa-practice/
-├── monotonic_array
-│   ├── monotonic_array.js
-|   └── README.md
-│   ├── sorted_squared_array.js
-|   └── README.md
+├── day_1_array
+|    ├── monotonic_array
+|    │   ├── monotonic_array.js
+|    |   └── README.md
+|    └── sorted_squared_array
+|        ├── sorted_squared_array.js
+|        └── README.md
 └── README.md
 ```
 
