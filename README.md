@@ -16,12 +16,19 @@ This repo is created with the aim to provide a public, open space for anyone who
 ```bash
 dsa-practice/
 ├── day_1_array
-|    ├── monotonic_array
-|    │   ├── monotonic_array.js
-|    |   └── README.md
-|    └── sorted_squared_array
-|        ├── sorted_squared_array.js
-|        └── README.md
+│    ├── monotonic_array
+│    │   ├── monotonic_array.js
+│    │   └── README.md
+│    └── sorted_squared_array
+│        ├── sorted_squared_array.js
+│        └── README.md
+├── day_2_array
+│    ├── josephus_problem
+│    │   ├── josephus_problem.js
+│    │   └── README.md
+│    └── k_th_symbol_in_grammar
+│        ├── k_th_symbol_in_grammar.js
+│        └── README.md
 └── README.md
 ```
 
