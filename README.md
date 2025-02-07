@@ -13,7 +13,7 @@ This repo is created with the aim to provide a public, open space for anyone who
 
 ### 🔎 Structure of the Repository
 
-```plaintext
+```
 dsa-practice/
 ├── [day_1_array](./day_1_array/)
 │    ├── [monotonic_array](./day_1_array/monotonic_array/)
