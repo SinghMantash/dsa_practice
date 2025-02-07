@@ -14,22 +14,22 @@ This repo is created with the aim to provide a public, open space for anyone who
 ### 🔎 Structure of the Repository
 
 ```
-dsa-practice/
-├── [day_1_array](./day_1_array/)
-│    ├── [monotonic_array](./day_1_array/monotonic_array/)
-│    │   ├── [monotonic_array.js](./day_1_array/monotonic_array/monotonic_array.js)
-│    │   └── [README.md](./day_1_array/monotonic_array/README.md)
-│    └── [sorted_squared_array](./day_1_array/sorted_squared_array/)
-│        ├── [sorted_squared_array.js](./day_1_array/sorted_squared_array/sorted_squared_array.js)
-│        └── [README.md](./day_1_array/sorted_squared_array/sorted_squared_array.js)
-├── [day_2_array](./day_2_recursion/)
-│    ├── [josephus_problem](./day_2_recursion/josephus_problem/)
-│    │   ├── [josephus_problem.js](./day_2_recursion/josephus_problem/josephus_problem.js)
-│    │   └── [README.md](./day_2_recursion/josephus_problem/readme.md)
-│    └── [k_th_symbol_in_grammar](./day_2_recursion/k_th_symbol_in_grammar/)
-│        ├── [k_th_symbol_in_grammar.js](./day_2_recursion/k_th_symbol_in_grammar/k_th_symbol_in_grammar.js)
-│        └── [README.md](./day_2_recursion/k_th_symbol_in_grammar/readme.md)
-└── [README.md](./README.md)
+├── day_1_array
+│   ├── monotonic_array
+│   │   ├── monotonic_array.js
+│   │   └── README.md
+│   └── sorted_squared_array
+│       ├── README.md
+│       └── sorted_squared_array.js
+├── day_2_recursion
+│   ├── josephus_problem
+│   │   ├── josephus_problem.js
+│   │   └── readme.md
+│   └── k_th_symbol_in_grammar
+│       ├── k_th_symbol_in_grammar.js
+│       └── readme.md
+└── README.md
+
 ```
 
 ### 💡 Why This Repo Exists
