@@ -28,6 +28,13 @@ This repo is created with the aim to provide a public, open space for anyone who
 │   └── k_th_symbol_in_grammar
 │       ├── k_th_symbol_in_grammar.js
 │       └── readme.md
+├── day_3_recursion_continued
+│   ├── power_sum
+│   │   ├── power_sum.js
+│   │   └── readme.md
+│   └── tower_of_hanoi
+│       ├── readme.md
+│       └── tower_of_hanoi.js
 └── README.md
 
 ```
