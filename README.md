@@ -35,6 +35,13 @@ This repo is created with the aim to provide a public, open space for anyone who
 │   └── tower_of_hanoi
 │       ├── readme.md
 │       └── tower_of_hanoi.js
+├── day_4_backtracking
+│   ├── permutation2
+│   │   ├── permutation2.js
+│   │   └── readme.md
+│   └── permutations
+│       ├── permutations.js
+│       └── readme.md
 └── README.md
 
 ```
