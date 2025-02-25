@@ -42,6 +42,24 @@ This repo is created with the aim to provide a public, open space for anyone who
 │   └── permutations
 │       ├── permutations.js
 │       └── readme.md
+├── day_5_backtracking
+│   ├── combinations_sum
+│   │   ├── combinations_sum.js
+│   │   └── readme.md
+│   └── subset2
+│       ├── readme.md
+│       └── subset2.js
+├── day_6_dynamic_programing
+│   ├── 01_knapsack
+│   │   ├── 01_knapsack.js
+│   │   └── readme.md
+│   └── climbingStairs
+│       ├── climbingStairs.js
+│       └── readme.md
+├── day_7_dynamic_programing
+│   └── targetSum
+│       ├── readme.md
+│       └── targetSum.js
 └── README.md
 
 ```
